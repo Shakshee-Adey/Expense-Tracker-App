@@ -179,7 +179,7 @@ Through this project, I practiced:
 
 **Shakshee Adey**
 
-Java Developer | Spring Boot | MySQL | React
+Java Developer | Spring Boot | MySQL | Html,CSS,Thymeleaf
 
 ## 📄 License
 
